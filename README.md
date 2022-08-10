@@ -1,6 +1,6 @@
 # Projeto Cordel
 
-Exercício proposto
+Exercício proposto pelo Professor Guanabara através do [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 ## 🚀 Começando
 
